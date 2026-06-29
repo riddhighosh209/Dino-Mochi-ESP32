@@ -1,5 +1,6 @@
 # Dino-Mochi-ESP32 🦖🤖
 Open-source Arduino IDE code for the esp32 c3 supermini, featuring smooth animations, touch reactivity, sound effects, and a hidden Google Dino game.
+YouTube video: https://www.youtube.com/shorts/FoWxk3ezbpE
 ## Features
 * Smooth face animations (total 12 faces) generated from https://huykhong.com/IOT/gif2cpp/
 * Touch reactivity - Switches to next animation on single tap, opens game on long press.
