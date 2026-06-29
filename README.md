@@ -28,3 +28,5 @@ You can wire the modules however you want, just put your pin configuration into 
 * Make sure you have all the required libraries installed. All libraries can be installed from Arduino IDE.
 * Select your board and COM port, open device manager if you don't know the COM port.
 * Hit the upload button.
+## Credits
+Some animations and the animation code taken from https://github.com/huykhoong/esp32_dasai_mochi_clone_and_how_to
