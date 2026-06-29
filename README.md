@@ -27,6 +27,7 @@ You can wire the modules however you want, just put your pin configuration into 
 * Open dinomochiesp32.ino in arduino IDE
 * Make sure you have all the required libraries installed. All libraries can be installed from Arduino IDE.
 * Select your board and COM port, open device manager if you don't know the COM port.
-* Hit the upload button.
+* Click the upload button.
 ## Credits
-Some animations and the animation code taken from https://github.com/huykhoong/esp32_dasai_mochi_clone_and_how_to
+Some animations and the animation code have been taken from https://github.com/huykhoong/esp32_dasai_mochi_clone_and_how_to
+Some gifs taken from https://github.com/pham-tuan-binh/watcher-mochi/tree/main/sd_content and converted to esp32 compatible c++ code using this website: https://huykhong.com/IOT/gif2cpp/
