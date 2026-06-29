@@ -22,7 +22,7 @@ Touch Sensor I/O - Pin 1
 Buzzer/Audio Signal- Pin 2
 Note: Display and touch sensor VCC is connected to 3.3 volt pin of esp32, Audio amplifier VCC is connected to 5 volt pin.
 ## How to install
-Click <>Code and Download as zip
+Click <>Code and Download as zip from the main github repository page.
 Extract the zip to your computer, do not rename any file inside or else it wont work.
 Open dinomochiesp32.ino in arduino IDE
 Make sure you have all the required libraries installed. All libraries can be installed from Arduino IDE.
